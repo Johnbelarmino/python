@@ -1,0 +1,46 @@
+* {
+	background-color: #333333;
+	padding: 0;
+	margin: 0;
+}
+
+.top {
+	font-family: "HelveticaNeue-Light";
+	font-size: 40px;
+	text-align: center;
+	color: white;
+	padding: 10px;
+}
+
+.page-container {
+	width: 10%;
+	height: 20px;
+	padding: 30px 0px;
+	text-align: center;
+	margin: auto 0;
+}
+
+.page-container .number{
+	background-color: #ff6699;
+	padding: 10px;
+	margin-bottom: 10px;
+	color: black;
+	font-family: "HelveticaNeue";
+	font-size: 20px;
+	border-radius: 0px 10px 10px 0px;
+}
+
+.info{
+	color: white;
+	padding: 10px 15px;
+	font-family: "HelveticaNeue-Light";
+	font-size: 18px;
+}
+
+.stock{
+	color: #77ff33;
+}
+
+.price {
+	color: #99ccff;
+}
